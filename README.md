@@ -1,4 +1,4 @@
-# Caaant OS
+# Bogan OS
 
 A joke OS thought up on Brodie Robertsons Stream
 
